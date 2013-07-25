@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2707B19B-4080-4226-A886-5FE820F12E8F</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Measure Block Execution Time</string>
 	<key>IDECodeSnippetUserSnippet</key>
